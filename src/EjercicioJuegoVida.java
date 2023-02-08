@@ -25,7 +25,7 @@ public class EjercicioJuegoVida {
 		
 		//Empezamos la ejecucion
 		while (true) {
-			System.out.println(" -----MATRIZ------ ");
+			System.out.println(" -----MATRIZ------- ");
 			//imprimimos la matriz
 			for(int i=0; i<6; i++) {
 				for(int j=0; j<6; j++) {
