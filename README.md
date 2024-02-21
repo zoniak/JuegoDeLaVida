@@ -12,4 +12,3 @@ El ejercicio se ha desarrollado de forma muy basica ya que esta pensado para per
 que se inicializan en el mundo de la programacion, por lo que no hemos estructurado
 el programa en funciones ni nada, sois libres de coger el codigo y hacer lo que querais :)
 
-Holu netbeans
